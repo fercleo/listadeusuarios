@@ -1,5 +1,5 @@
 Instruções para Execução
-Tenha o git instalado e 
+Tenha o git e node.js instalados e 
 Clone este repositório:
 
 git clone https://github.com/fercleo/listadeusuarios.git
