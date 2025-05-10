@@ -34,7 +34,7 @@ e as funcionalidades de lógica (como o UserListApp).
 
 Busca e Filtragem:
 
-Utilizei o estado para armazenar a lista de usuários e a lista filtrada, 
+Utilizei o estado searchTerm para armazenar o valor da busca e filteredUsers para filtragem da lista de usuários, 
 que é atualizada com base no valor da pesquisa digitada no campo de busca.
 
 O estado filteredUsers é filtrado sempre que o valor de searchTerm muda, garantindo que a lista de usuários seja atualizada em tempo real.
@@ -67,5 +67,4 @@ então a exibição dos usuários depende da disponibilidade da API.
 O design foi mantido simples e funcional. Caso o projeto fosse expandido, poderia ser integrado o TailwindCSS 
 para otimizar a parte visual e tornar o layout mais flexível.
 
-A filtragem de usuários funciona em tempo real à medida que o usuário digita no campo de pesquisa.
 
