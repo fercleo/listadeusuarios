@@ -1,4 +1,5 @@
 Instruções para Execução
+Tenha o git instalado e 
 Clone este repositório:
 
 git clone https://github.com/fercleo/listadeusuarios.git
