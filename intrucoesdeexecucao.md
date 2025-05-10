@@ -1,6 +1,6 @@
 Instruções para Execução
 Tenha o git e node.js instalados e 
-Clone este repositório:
+Clone este repositório via cmd:
 
 git clone https://github.com/fercleo/listadeusuarios.git
 
@@ -13,7 +13,7 @@ Instale as dependências:
 npm install
 
 Execute o projeto:
-npm start
+npm run dev
 
 Acesse o aplicativo no navegador através de:
-http://localhost:3000
+localhost:5173
