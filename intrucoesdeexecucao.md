@@ -1,11 +1,11 @@
 Instruções para Execução
 Clone este repositório:
 
-git clone https://github.com/your-username/user-list-app.git
+git clone https://github.com/fercleo/listadeusuarios.git
 
-Navegue até a pasta do projeto:
+Navegue até a pasta do projeto no cmd:
 
-cd user-list-app
+cd (caminho da pasta)
 
 Instale as dependências:
 
