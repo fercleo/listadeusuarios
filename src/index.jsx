@@ -1,7 +1,7 @@
 // src/index.js
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './UserListApp'; // Supondo que você tenha um componente App
+import App from './UserListApp'; 
 import "./App.css";
 
 
